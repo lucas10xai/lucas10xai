@@ -1,9 +1,6 @@
 ## Le Quoc Nghia (Lucas)
 **Founder at [OPCAIOS](https://opcaios.org) · AI Systems Architect**
 
-Building unified AI operating systems, multi-agent `MCP` workflows, and deterministic automation (`n8n`, `TypeScript`, `Python`, `PostgreSQL / pgvector`) for solo operators and lean teams.
-
-> *"Using ten AI tools is not an AI system. Prompts expire with every model release; structured context and workflows compound over time."*
 
 ### Products
 
